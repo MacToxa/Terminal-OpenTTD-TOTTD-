@@ -2,6 +2,7 @@
 > A CLI linux tool for managing OpenTTD instances, and other useful OpenTTD-related tools, like downloading BaNaNaS content without opening the game.
 ## Features:
 > Implemented -> ✅
+
 > Planned -> ❌
 ### Instance management
 - ❌ tottd
